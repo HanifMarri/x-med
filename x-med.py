@@ -7,12 +7,12 @@ G="\033[92m"
 Y="\033[93m"
 B="\033[94m"
 RS="\033[95m"
-print R+" created: "+G+"by lassoued / "+R+ "email:" +G+" mlassoued95@gmail.com"
+print R+" created: "+G+"by DAVID / "+R+ "email:" +G+" mhanifmarribaloch@gmail.com"
 print Y+ '''          ._________________.
           | _______________ |
-          | I             I |
-          | I             I |
-          | I             I |
+          | I  DAVID      I |
+          | I  Hacking    I |
+          | I  Tools      I |
           | I             I |
           | I_____________I |
           !_________________!
