@@ -10,9 +10,9 @@ RS="\033[95m"
 print R+" created: "+G+"by lassoued / "+R+ "email:" +G+" mlassoued95@gmail.com"
 print Y+ '''          ._________________.
           | _______________ |
-          | I             I |
-          | I             I |
-          | I             I |
+          | I DAVIDHacker I |
+          | I Made by     I |
+          | I HANIF Marri I |
           | I             I |
           | I_____________I |
           !_________________!
