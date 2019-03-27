@@ -7,19 +7,19 @@ G="\033[92m"
 Y="\033[93m"
 B="\033[94m"
 RS="\033[95m"
-print R+" created: "+G+"by lassoued / "+R+ "email:" +G+" mlassoued95@gmail.com"
+print R+" created: "+G+"by Hanif Marri / "+R+ "email:" +G+" hanifmarri143@gmail.com"
 print Y+ '''          ._________________.
           | _______________ |
-          | I             I |
-          | I             I |
-          | I             I |
-          | I             I |
+          | I Hanif Marri I |
+          | I Technical.  I |
+          | I FACEBOOK.   I |
+          | I  Hacker     I |
           | I_____________I |
           !_________________!
              ._[_______]_.
          .___|___________|___.
          |::: ____           |
-         |    ~~~~ [X-MED]   |
+         |    [FB Hacker ]   |
          !___________________! '''
 print R+"                 x-med"
 print RS+"[1]"+B+' brute fb '
